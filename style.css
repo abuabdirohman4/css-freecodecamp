@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    margin: 4%;
+}
+
+#title {
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 1rem auto;
+    background-color: red;
+  }
+  
+#img-div {
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+#tribute-info h3 {
+    margin-bottom: 1.5rem;
+}
+
+ul {
+    margin: 0 auto 2rem auto;
+    width: 300px;
+    text-align: left;
+    line-height: 2;
+}
